@@ -1,0 +1,11 @@
+.DogDetails img {
+  max-width: 25%;
+  border-radius: 5%;
+  margin-top: 1rem;
+}
+
+
+
+.DogDetails {
+  text-align: center;
+}
